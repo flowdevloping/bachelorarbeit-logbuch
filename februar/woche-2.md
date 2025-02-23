@@ -1,3 +1,5 @@
+# Woche 2 Februar: 10.02.2025 - 16.02.2025
+
 # Zusammenfassung
 - Testen des ouster-sdk & rtabmap 
 - Einrichtung Octomap & Elevation Mapping

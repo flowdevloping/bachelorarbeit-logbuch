@@ -1,3 +1,5 @@
+# Woche 4 Januar: 27.01.2025 - 02.02.2025
+
 ## Zusammenfassung
 - Organisatorische Fragen zur Arbeit vor Ort am Institut geklärt
 - Laptop eingerichtet und benötigte Software installiert
